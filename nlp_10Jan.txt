@@ -1,0 +1,17 @@
+Today we had tried 4 stemmers in class and were asked to make few observations.
+
+
+Porter Stemmer:
+It works with a switch-case algorithm, with cases defined for consonant-vowel combination, and just chops for the suffixes for the match.
+
+Snowball Stemmer:(Porter stemmer 2) supports 16 languages (for the version used)
+A improved version of Porter Stemmer
+
+Lancaster Stemmer: Better than what Porter 
+
+Regex Stemmer
+
+Few observations.
+1) All the three failed for "sibling"
+2) Lancaster worked for "fortification"
+3) Porter And Snowball seem to be verb-oriented
