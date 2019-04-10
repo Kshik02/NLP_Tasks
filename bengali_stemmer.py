@@ -1,4 +1,4 @@
-#this code is not mine.I tried to run this and learn how it worked.
+
 import operator
 
 
