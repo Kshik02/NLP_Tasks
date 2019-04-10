@@ -1,4 +1,4 @@
-
+#I am not that strong in Bengali to be able to write this all myself. I tried to understand the logic this code used by implementing it.
 import operator
 
 
